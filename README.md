@@ -1,1 +1,3 @@
-# 9.01-lab-correlated_data
+# Introduction to Correlated Data Lab
+
+This lab serves as an intuitive introduction to correlated data.
